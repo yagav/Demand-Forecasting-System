@@ -1,0 +1,21 @@
+artifact_path: mlflow-artifacts:/1/models/m-bda1d375bd9e4804a65e026009148e2e/artifacts
+flavors:
+  prophet:
+    code: null
+    data: model.pr
+    model_type: Prophet
+    prophet_version: 1.2.1
+  python_function:
+    data: model.pr
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.prophet
+    python_version: 3.11.4
+mlflow_version: 3.8.1
+model_id: m-bda1d375bd9e4804a65e026009148e2e
+model_size_bytes: 104671
+model_uuid: m-bda1d375bd9e4804a65e026009148e2e
+prompts: null
+run_id: 7e685f7759c74dc580e9004e911b02cb
+utc_time_created: '2026-01-11 12:51:37.297515'
