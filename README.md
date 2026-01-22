@@ -1,4 +1,4 @@
-# **Demand Forecasting System – End-to-End MLOps Implementation**
+# **Demand Forecasting System with Automated Retraining and Cloud-Based MLOps**
 
 ---
 
